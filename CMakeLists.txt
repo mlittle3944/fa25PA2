@@ -7,4 +7,5 @@ include_directories(.)
 
 add_executable(fa25PA2
         heap.h
-        main.cpp)
+        main.cpp
+)
